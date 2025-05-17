@@ -33,4 +33,5 @@ pip install playsound
 - Sound effects and image assets are included to enhance the user experience.
 
 ## Game UI Picture 
+---
 ![screenshot](images/game_screen.png)
