@@ -31,3 +31,6 @@ pip install playsound
 
 - This game is a basic example of Python GUI programming using `tkinter`.
 - Sound effects and image assets are included to enhance the user experience.
+
+## Game UI Picture 
+![screenshot](images/game_screen.png)
